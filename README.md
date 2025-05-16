@@ -1,26 +1,100 @@
-# Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
-## Problem Title
-SIH 1710: Enhancing Navigation for Railway Station Facilities and Locations
-## Problem Description
-Background: Railway stations are complex environments with numerous facilities and locations such as ticket counters, platforms, restrooms, food courts, and waiting areas. Passengers often face difficulties in navigating these spaces, especially in large or unfamiliar stations. Efficient and user-friendly navigation systems are crucial for improving passenger experience, reducing congestion, and ensuring timely travel connections. Description: The problem involves developing a comprehensive navigation solution for railway stations that assists passengers in locating various facilities and destinations within the station premises. This includes creating detailed maps, providing real-time directions, and integrating features such as accessibility options for individuals with disabilities. The solution should be intuitive, easy to use, and accessible via multiple platforms, including mobile devices and digital kiosks. Key challenges include updating navigation information in real-time, ensuring accuracy, and accommodating the diverse needs of all passengers. Expected Solution: The expected solution is a multi-platform navigation system that provides detailed, real-time directions to all facilities and locations within a railway station. This system should include: A mobile application with 3D interactive maps and step-by-step navigation. Digital kiosks located throughout the station with touch-screen interfaces. Voice-guided navigation for visually impaired passengers. Regular updates to reflect changes in station layout and facility locations. Integration with existing railway apps and services for seamless user experience. The solution should enhance the overall passenger experience by reducing confusion, saving time, and improving accessibility within the station.
+Smart India Hackathon Workshop
+Date: 16.05.2025
+Register Number: 212222230112
+Name: Prema Latha S
+Problem Title
+SIH 1893: Smart Waste Management System for Urban Areas
 
-## Problem Creater's Organization
-Ministry of Railway
+Problem Description
+Background: Urban areas are facing a mounting challenge in managing solid waste efficiently. Overflowing bins, irregular collection schedules, and lack of monitoring contribute to environmental pollution and health risks. The inefficiencies in current waste collection and segregation systems lead to increased operational costs and dissatisfaction among citizens.
 
-## Idea
+Description: The problem focuses on designing a smart waste management system that automates bin monitoring, optimizes collection routes, and promotes efficient waste segregation. The solution should include sensors to monitor bin fill levels, a real-time dashboard for municipal authorities, and a mobile application for citizens to report issues and view collection schedules. Key challenges include real-time data processing, system scalability, integration with municipal systems, and promoting behavioral change among citizens.
+
+Expected Solution:
+The solution is expected to be an integrated platform including:
+
+IoT-enabled smart bins that detect fill level and type of waste.
+
+A centralized dashboard for authorities with real-time bin status and route optimization.
+
+A mobile app for citizens to get alerts, provide feedback, and schedule pickups.
+
+A data analytics module to improve efficiency and identify high-waste zones.
+
+Support for segregated waste handling (biodegradable, recyclable, hazardous).
+
+The system should aim to improve cleanliness, reduce manual monitoring efforts, enhance sustainability, and create an engaging experience for citizens and municipal staff.
+
+Problem Creator's Organization
+Ministry of Housing and Urban Affairs
+
+Idea
+Develop an intelligent waste management system using IoT and AI technologies that ensures timely waste collection, efficient route planning for waste trucks, and real-time citizen engagement through mobile applications and smart dashboards.
+
+Proposed Solution
+A connected waste management ecosystem that includes:
+
+Smart Bins
+Equipped with ultrasonic sensors for fill-level detection
+
+Sends alerts when bin is full or emits odor
+
+Supports waste type identification
+
+Citizen Mobile App
+Shows bin status and nearby bin locations
+
+Allows reporting of overflowing or damaged bins
+
+Notifies users about collection schedules
+
+Educational tips for segregation
+
+Municipal Dashboard
+Displays real-time bin data on a map
+
+Auto-generates optimal collection routes using AI
+
+Provides analytics on waste trends
+
+Alerts for maintenance and zone-wise heatmaps
+
+Waste Collection Trucks
+Integrated with GPS for live tracking
+
+Follows optimized routes
+
+Sends feedback to dashboard after bin collection
+
+Architecture Diagram
+
+![image](https://github.com/user-attachments/assets/2052794a-3203-46a3-8749-4bf371f2a5a1)
+
+Use Cases
+Citizen: Reports an overflowing bin using the app and receives a notification when it’s cleared.
+
+Municipal Officer: Views real-time data and redirects trucks for urgent pickups.
+
+Truck Driver: Follows an AI-optimized route for efficient bin collection.
+
+Administrator: Analyzes daily collection patterns and plans resource allocation.
+
+![image](https://github.com/user-attachments/assets/9acf29e9-1590-4a21-8eca-cb01fded8fe4)
 
 
-## Proposed Solution / Architecture Diagram
+Technology Stack
 
+![Screenshot 2025-05-16 143746](https://github.com/user-attachments/assets/f5beb88a-74bb-4e32-9417-10798042dfce)
 
-## Use Cases
+Dependencies
+IoT Sensors (Ultrasonic, Gas Detection)
 
+GPS Module for vehicle tracking
 
-## Technology Stack
+Google Maps API or Mapbox for routing
 
+Firebase or AWS for backend services
 
-## Dependencies
+Flutter / React Native for mobile application
 
+OpenCV or ML model for waste classification
