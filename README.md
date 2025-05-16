@@ -3,7 +3,7 @@
 ### Register Number: 212222230112
 ### Name: Prema Latha S
 # Problem Title
-# SIH 1893: Smart Waste Management System for Urban Areas
+### SIH 1893: Smart Waste Management System for Urban Areas
 
 # Problem Description
 ### Background: Urban areas are facing a mounting challenge in managing solid waste efficiently. Overflowing bins, irregular collection schedules, and lack of monitoring contribute to environmental pollution and health risks. The inefficiencies in current waste collection and segregation systems lead to increased operational costs and dissatisfaction among citizens.
@@ -13,17 +13,17 @@
 # Expected Solution:
 The solution is expected to be an integrated platform including:
 
-IoT-enabled smart bins that detect fill level and type of waste.
+1.IoT-enabled smart bins that detect fill level and type of waste.
 
-A centralized dashboard for authorities with real-time bin status and route optimization.
+2.A centralized dashboard for authorities with real-time bin status and route optimization.
 
-A mobile app for citizens to get alerts, provide feedback, and schedule pickups.
+3.A mobile app for citizens to get alerts, provide feedback, and schedule pickups.
 
-A data analytics module to improve efficiency and identify high-waste zones.
+4.A data analytics module to improve efficiency and identify high-waste zones.
 
-Support for segregated waste handling (biodegradable, recyclable, hazardous).
+5.Support for segregated waste handling (biodegradable, recyclable, hazardous).
 
-The system should aim to improve cleanliness, reduce manual monitoring efforts, enhance sustainability, and create an engaging experience for citizens and municipal staff.
+6.The system should aim to improve cleanliness, reduce manual monitoring efforts, enhance sustainability, and create an engaging experience for citizens and municipal staff.
 
 # Problem Creator's Organization
 ### Ministry of Housing and Urban Affairs
@@ -35,49 +35,49 @@ Develop an intelligent waste management system using IoT and AI technologies tha
 A connected waste management ecosystem that includes:
 
 ### Smart Bins
-Equipped with ultrasonic sensors for fill-level detection
+1.Equipped with ultrasonic sensors for fill-level detection
 
-Sends alerts when bin is full or emits odor
+2.Sends alerts when bin is full or emits odor
 
-Supports waste type identification
+3.Supports waste type identification
 
 ### Citizen Mobile App
-Shows bin status and nearby bin locations
+1.Shows bin status and nearby bin locations
 
-Allows reporting of overflowing or damaged bins
+2.Allows reporting of overflowing or damaged bins
 
-Notifies users about collection schedules
+3.Notifies users about collection schedules
 
-Educational tips for segregation
+4.Educational tips for segregation
 
 ### Municipal Dashboard
-Displays real-time bin data on a map
+1.Displays real-time bin data on a map
 
-Auto-generates optimal collection routes using AI
+2.Auto-generates optimal collection routes using AI
 
-Provides analytics on waste trends
+3.Provides analytics on waste trends
 
-Alerts for maintenance and zone-wise heatmaps
+4.Alerts for maintenance and zone-wise heatmaps
 
 ### Waste Collection Trucks
-Integrated with GPS for live tracking
+1.Integrated with GPS for live tracking
 
-Follows optimized routes
+2.Follows optimized routes
 
-Sends feedback to dashboard after bin collection
+3.Sends feedback to dashboard after bin collection
 
 # Architecture Diagram
 
 ![image](https://github.com/user-attachments/assets/2052794a-3203-46a3-8749-4bf371f2a5a1)
 
 # Use Cases
-Citizen: Reports an overflowing bin using the app and receives a notification when it’s cleared.
+1.Citizen: Reports an overflowing bin using the app and receives a notification when it’s cleared.
 
-Municipal Officer: Views real-time data and redirects trucks for urgent pickups.
+2.Municipal Officer: Views real-time data and redirects trucks for urgent pickups.
 
-Truck Driver: Follows an AI-optimized route for efficient bin collection.
+3.Truck Driver: Follows an AI-optimized route for efficient bin collection.
 
-Administrator: Analyzes daily collection patterns and plans resource allocation.
+4.Administrator: Analyzes daily collection patterns and plans resource allocation.
 
 ![image](https://github.com/user-attachments/assets/9acf29e9-1590-4a21-8eca-cb01fded8fe4)
 
@@ -87,14 +87,14 @@ Administrator: Analyzes daily collection patterns and plans resource allocation.
 ![Screenshot 2025-05-16 143746](https://github.com/user-attachments/assets/f5beb88a-74bb-4e32-9417-10798042dfce)
 
 # Dependencies
-IoT Sensors (Ultrasonic, Gas Detection)
+1.IoT Sensors (Ultrasonic, Gas Detection)
 
-GPS Module for vehicle tracking
+2.GPS Module for vehicle tracking
 
-Google Maps API or Mapbox for routing
+3.Google Maps API or Mapbox for routing
 
-Firebase or AWS for backend services
+4.Firebase or AWS for backend services
 
-Flutter / React Native for mobile application
+5.Flutter / React Native for mobile application
 
-OpenCV or ML model for waste classification
+6.OpenCV or ML model for waste classification
