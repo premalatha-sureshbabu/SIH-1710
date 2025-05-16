@@ -6,9 +6,11 @@
 ### SIH 1893: Smart Waste Management System for Urban Areas
 
 # Problem Description
-### Background: Urban areas are facing a mounting challenge in managing solid waste efficiently. Overflowing bins, irregular collection schedules, and lack of monitoring contribute to environmental pollution and health risks. The inefficiencies in current waste collection and segregation systems lead to increased operational costs and dissatisfaction among citizens.
+### Background: 
+Urban areas are facing a mounting challenge in managing solid waste efficiently. Overflowing bins, irregular collection schedules, and lack of monitoring contribute to environmental pollution and health risks. The inefficiencies in current waste collection and segregation systems lead to increased operational costs and dissatisfaction among citizens.
 
-# Description: The problem focuses on designing a smart waste management system that automates bin monitoring, optimizes collection routes, and promotes efficient waste segregation. The solution should include sensors to monitor bin fill levels, a real-time dashboard for municipal authorities, and a mobile application for citizens to report issues and view collection schedules. Key challenges include real-time data processing, system scalability, integration with municipal systems, and promoting behavioral change among citizens.
+# Description: 
+The problem focuses on designing a smart waste management system that automates bin monitoring, optimizes collection routes, and promotes efficient waste segregation. The solution should include sensors to monitor bin fill levels, a real-time dashboard for municipal authorities, and a mobile application for citizens to report issues and view collection schedules. Key challenges include real-time data processing, system scalability, integration with municipal systems, and promoting behavioral change among citizens.
 
 # Expected Solution:
 The solution is expected to be an integrated platform including:
